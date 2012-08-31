@@ -5,7 +5,7 @@ require "clah-rails/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "clah-rails"
+  s.name        = "clah"
   s.version     = ClahRails::VERSION
   s.authors     = ["Alpha Hydrae"]
   s.email       = ["hydrae.alpha@gmail.com"]
