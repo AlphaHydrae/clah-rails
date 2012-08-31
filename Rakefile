@@ -21,7 +21,7 @@ require 'rake-version'
 
 # version tasks
 RakeVersion::Tasks.new do |v|
-  v.copy File.join('lib', 'clah-rails', 'version.rb'), 'clah-rails.gemspec'
+  v.copy File.join('lib', 'clah-rails', 'version.rb')
 end
 
 task :default => :test
