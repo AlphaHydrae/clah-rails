@@ -1,6 +1,8 @@
 # clah-rails
 
-[Clah simple javascript inheritance](https://github.com/AlphaHydrae/clah) for Ruby on Rails.
+**Simple Javascript Inheritance with bound callbacks**
+
+This is [the clah project](https://github.com/AlphaHydrae/clah) for Ruby on Rails.
 
 ## License (MIT)
 
