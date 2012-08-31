@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    clah-rails (0.0.2)
+    clah-rails (0.1.0)
 
 GEM
   remote: http://rubygems.org/
