@@ -4,6 +4,16 @@
 
 This is [the clah project](https://github.com/AlphaHydrae/clah) for Ruby on Rails.
 
+## Installation
+
+Add it to your Gemfile:
+
+    gem "clah-rails"
+
+Add it to your `application.js`:
+
+    //= require clah
+
 ## License (MIT)
 
 Copyright (c) 2011 Alpha Hydrae
