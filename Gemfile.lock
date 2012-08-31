@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    clah (0.0.1)
+    clah-rails (0.0.2)
       rails (~> 3.2.8)
 
 GEM
@@ -92,6 +92,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  clah!
+  clah-rails!
   jquery-rails
   sqlite3
