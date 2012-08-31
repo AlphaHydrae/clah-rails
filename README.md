@@ -2,7 +2,7 @@
 
 **Simple Javascript Inheritance with bound callbacks**
 
-This is [the clah project](https://github.com/AlphaHydrae/clah) for Ruby on Rails.
+This is the latest version of the [clah library](https://github.com/AlphaHydrae/clah) for Ruby on Rails.
 
 ## Installation
 
