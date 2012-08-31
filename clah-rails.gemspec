@@ -14,7 +14,6 @@ Gem::Specification.new do |s|
   s.description = "Simple Javascript Inheritance (by John Resig) with bound callbacks. Adapted for Ruby on Rails."
 
   s.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "Rakefile", "README.md"]
-  s.test_files = Dir["test/**/*"]
 
   s.add_development_dependency "rake-version", "~> 0.3.0"
 end
